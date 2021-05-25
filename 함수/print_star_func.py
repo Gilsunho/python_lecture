@@ -1,8 +1,8 @@
-#def print_star():
-#    print('******')
+def print_star():
+    print('******')
    
-#for i in range(10):
-#     print('******') 
+for i in range(10):
+     print('******') 
 
 
 
